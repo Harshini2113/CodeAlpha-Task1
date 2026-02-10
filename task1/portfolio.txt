@@ -1,0 +1,6 @@
+Stock Portfolio Summary
+------------------------
+AAPL - Quantity: 100, Value: $18000
+AMZN - Quantity: 80, Value: $10400
+
+Total Investment Value: $28400
